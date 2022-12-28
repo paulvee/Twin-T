@@ -1,2 +1,2 @@
 # Twin-T
-Twin-T filter for my distortion measurement systemn
+Twin-T filter for my distortion measurement system
